@@ -5,4 +5,6 @@ console.log("fungsi keempat");
 console.log("fungsi kelima");
 const add=(a,b) =>a+b ;
 console.log (add(1,2));
+console.log(add (5,5));
+
 
